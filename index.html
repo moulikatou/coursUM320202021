@@ -5,10 +5,22 @@
 
     </head>
 
+  
+
     <body>
+
         <div id=maincontent>
 
         </div>
+        <script >
+            var anotherOne = fetch('https://koumoul.com/s/data-fair/api/v1/datasets/dpe-france/api-docs.json').then(
+            function(response){
+                response.json().then(function(data){ anotherOne = data})
+                }
+            )
+            document.getElementById("maincontent").innerHTML=anotherOne;
+         </script>
+
     </body>
 </html>
 
