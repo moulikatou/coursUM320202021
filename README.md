@@ -1,11 +1,7 @@
 # coursUM320202021
 le support de cours de 2020 - 2021
- 
-#les questions de culture générale - introduction
- 
-* Date et nom de l'inventeur du web : 
-    Tim Berners-Lee en 1989
 
+ 
 * La différence entre le Web et internet ?
 Internet est la structure sur lequelles l'application web existe.
 Internet c'est le réseau globale. Et le web est un des services de internet.
